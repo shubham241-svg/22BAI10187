@@ -17,7 +17,7 @@ const TopUsers = () => {
   return (
     <div className='p-4'>
         <h1 className="text-xl font-bold">Top Users</h1>
-            {users.map((user) => (
+            {post.map((user) => (
                 <UserCard key={user.id} user={user} />
             ))}
     </div>
