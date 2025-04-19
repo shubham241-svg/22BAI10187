@@ -30,6 +30,7 @@ router.get("/men/:id", async (req, res) => {
       res.status(404).json({ success: false, message: "Item not found" });
     }
   } catch (err) {
+  
     console.error("Error fetching men's item:", err);
     res.status(500).json({ success: false, message: "Error fetching item" });
   }

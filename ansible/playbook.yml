@@ -1,0 +1,6 @@
+- hosts: kubernetes
+  tasks:
+    - name: Install Kubernetes
+      apt:
+        name: kubeadm
+        state: present
