@@ -6,9 +6,8 @@ Welcome to the GitHub repository for a robust full-stack e-commerce platform tha
 
 > Upload screenshots or GIFs of your homepage, login page, dashboard, and mobile view below.
 
-![Homepage Preview](./assets/screenshots/homepage.png)
+![Homepage Preview](Screenshot 2025-04-20 at 12.04.43 AM.png)
 
-![Dashboard Preview](./assets/screenshots/dashboard.png)
 
 ---
 
