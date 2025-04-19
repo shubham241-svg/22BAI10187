@@ -132,7 +132,7 @@ SESSION_SECRET=your_session_secret
 This project is licensed under the MIT License.
 
 🙋‍♂️ Author
-Made with ❤️ by Shubham Singh
+Made with ❤️ by Shubham Gupta
 
 ⭐ Contributing
 Pull requests are welcome! Please open an issue first to discuss what you'd like to change.
